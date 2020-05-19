@@ -1,0 +1,3 @@
+-o c:/foo/yt/%(title)s.%(ext)s
+--ignore-errors
+--verbose
